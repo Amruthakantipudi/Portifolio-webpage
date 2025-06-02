@@ -33,6 +33,3 @@
 
 * A beginner-friendly web portfolio project demonstrating frontend skills and basic interactivity. Serves as a foundation for building more advanced personal websites.
 
-
-
-Let me know if you'd like a version with GitHub markdown formatting or additional sections like installation or screenshots.
